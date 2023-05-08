@@ -1,0 +1,24 @@
+h1 {
+  color: var(--main-color);
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+main li {
+  background-color: white;
+  padding: 1rem;
+  margin: 1rem 0;
+  text-align: center;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+  position: relative;
+  border-radius: 8px;
+  min-width: 30%;
+}

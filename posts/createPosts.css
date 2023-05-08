@@ -1,0 +1,22 @@
+main form {
+  border: 1px solid black;
+  width: 40rem;
+  margin: 0 auto;
+  text-align: center;
+  padding: 1rem;
+}
+
+main div {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+main li {
+  font-size: 1.3rem;
+  border: 1px solid black;
+  width: 30rem;
+  margin: 0 auto;
+  border-radius: 8px;
+  background-color: rgb(255, 240, 240);
+}
